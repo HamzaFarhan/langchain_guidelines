@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "langchain_guidelines"
+  site-url: "https://HamzaFarhan.github.io/langchain_guidelines"
+  description: "Applying Guidelines to LLMs"
+  repo-branch: main
+  repo-url: "https://github.com/HamzaFarhan/langchain_guidelines"
